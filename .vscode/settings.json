@@ -1,0 +1,4 @@
+{
+    "python.useEnvironmentsExtension": false,
+    "python.defaultInterpreterPath": "${workspaceFolder}/my_data_project/venv/bin/python"
+}
